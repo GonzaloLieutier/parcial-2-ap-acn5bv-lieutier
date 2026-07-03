@@ -88,3 +88,37 @@ Scrum va a permitir dividir el desarrollo en etapas cortas, priorizando funciona
 
 De esta manera, la metodología elegida permite entregar valor de forma incremental, validar avances con los usuarios, y ajustar el alcance del producto según las necesidades que aparezcan durante el desarrollo.
 
+# Análisis de requerimientos
+
+Los requerimientos del proyecto surgen de las necesidades de los principales interesados: el cura, los coordinadores de grupos y la comunidad de la parroquia. La idea principal es que la aplicación ayude a centralizar la información, facilitar las inscripciones y mejorar la comunicación entre los grupos.
+
+## Requerimientos funcionales
+
+| Numero | Requerimiento | Descripción |
+|--------|---------------|-------------|
+| RF01 | Consultar grupos disponibles | El usuario debe poder ver los grupos que existen dentro de la parroquia. |
+| RF02 | Ver detalle de cada grupo | El usuario debe poder consultar información como horarios, descripción, lugar de encuentro y responsable del grupo. |
+| RF03 | Inscribirse a un grupo | El miembro de la comunidad debe poder anotarse a un grupo desde la aplicación. |
+| RF04 | Administrar integrantes | Los coordinadores deben poder ver y gestionar las personas inscriptas en sus grupos. |
+| RF05 | Publicar novedades o actividades | Los coordinadores deben poder compartir información importante sobre encuentros, cambios o avisos. |
+| RF06 | Recibir notificaciones | Los usuarios deben poder recibir avisos relacionados con los grupos en los que participan. |
+
+## Requerimientos no funcionales
+
+| Numero | Requerimiento | Descripción |
+|--------|---------------|-------------|
+| RNF01 | Aplicación simple e intuitiva | La aplicación debe ser fácil de usar para personas con distintos niveles de experiencia tecnológica. |
+| RNF02 | Acceso desde web y móvil | El sistema debe poder usarse desde una computadora o desde un celular. |
+| RNF03 | Información clara y actualizada | Los datos de los grupos, horarios y actividades deben mostrarse de forma ordenada y mantenerse actualizados. |
+| RNF04 | Seguridad básica | La aplicación debe proteger los datos personales de los usuarios registrados. |
+
+## Historias de usuario
+
+| Numero | Historia de usuario | Objetivo |
+|--------|--------------------|----------|
+| HU01 | Como miembro de la comunidad, quiero ver los grupos disponibles para elegir en cuál participar. | Conocer las propuestas de la parroquia. |
+| HU02 | Como miembro de la comunidad, quiero ver el detalle de un grupo para saber si me interesa participar. | Consultar información antes de inscribirse. |
+| HU03 | Como miembro de la comunidad, quiero inscribirme a un grupo para participar de sus actividades. | Facilitar la inscripción desde un solo lugar. |
+| HU04 | Como coordinador, quiero ver los integrantes inscriptos para organizar mejor el grupo. | Gestionar la participación de los miembros. |
+| HU05 | Como coordinador, quiero publicar novedades para comunicar información importante. | Mantener informados a los integrantes. |
+| HU06 | Como usuario, quiero recibir notificaciones para estar informado sobre actividades y cambios. | Mejorar la comunicación dentro de la comunidad. |
