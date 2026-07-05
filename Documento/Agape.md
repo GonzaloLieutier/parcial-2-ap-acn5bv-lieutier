@@ -134,3 +134,20 @@ https://trello.com/invite/b/6a46d2fbc19ed0e54af1cb20/ATTI2f16c667e0cd82542d69d3f
 | M1 - Buscar grupos | Que los usuarios puedan encontrar información de los grupos. | Semana 1 a 4 | Definición de grupos y datos básicos. |
 | M2 - Inscripción y participación | Que los usuarios puedan anotarse y gestionar su participación. | Semana 5 a 8 | M1 finalizada. |
 | M3 - Gestión y comunicación | Que coordinadores puedan administrar grupos y comunicar novedades. | Semana 9 a 12 | M1 y M2 avanzadas. |
+
+## Estimacion de requerimientos
+
+| Milestone | HU | Estimación |
+|---|---|---:|
+| M1 - Buscar grupos | M1.1 - Buscar grupos por nombre | 2 |
+| M1 - Buscar grupos | M1.2 - Filtrar grupos por categoría | 3 |
+| M1 - Buscar grupos | M1.3 - Consultar horarios de encuentro | 2 |
+| M1 - Buscar grupos | M1.4 - Ver responsable de cada grupo | 1 |
+| M2 - Inscripción y participación | M2.1 - Completar formulario de inscripción | 3 |
+| M2 - Inscripción y participación | M2.2 - Confirmar inscripción enviada | 2 |
+| M2 - Inscripción y participación | M2.3 - Cancelar una inscripción | 3 |
+| M2 - Inscripción y participación | M2.4 - Consultar estado de inscripción | 2 |
+| M3 - Gestión y comunicación | M3.1 - Crear novedades para un grupo | 3 |
+| M3 - Gestión y comunicación | M3.2 - Editar información de un grupo | 3 |
+| M3 - Gestión y comunicación | M3.3 - Consultar listado de integrantes | 2 |
+| M3 - Gestión y comunicación | M3.4 - Notificar cambios de actividad | 5 |
