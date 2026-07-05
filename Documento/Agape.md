@@ -128,3 +128,9 @@ Los requerimientos del proyecto surgen de las necesidades de los principales int
 Para realizar el seguimiento del proyecto se va a usar un tablero en Trello. Este tablero permite organizar las historias de usuario, ver el estado de cada tarea y controlar el avance del desarrollo de la aplicación.
 
 https://trello.com/invite/b/6a46d2fbc19ed0e54af1cb20/ATTI2f16c667e0cd82542d69d3fe26c209fa5741C497/agape |
+
+| Milestone | Objetivo | Fecha estimada | Dependencias |
+|---|---|---|---|
+| M1 - Buscar grupos | Que los usuarios puedan encontrar información de los grupos. | Semana 1 a 4 | Definición de grupos y datos básicos. |
+| M2 - Inscripción y participación | Que los usuarios puedan anotarse y gestionar su participación. | Semana 5 a 8 | M1 finalizada. |
+| M3 - Gestión y comunicación | Que coordinadores puedan administrar grupos y comunicar novedades. | Semana 9 a 12 | M1 y M2 avanzadas. |
